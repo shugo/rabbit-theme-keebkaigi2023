@@ -47,14 +47,14 @@ set_foreground(@default_foreground)
 #-------------------------
 # table
 #-------------------------
-@table_frame_color = "#ff00ff"
+@table_frame_color = "#000000"
 @table_fill_color = "#444444"
 @table_padding_left = screen_x(5) * 0
 @table_padding_right = screen_x(5) * 0
 @table_padding_top = screen_y(2) * 0
 @table_padding_bottom = screen_y(2) * 0
-@table_head_frame_color = "#ff00ff"
-@table_body_frame_color = "#ff00ff"
+@table_head_frame_color = "#000000"
+@table_body_frame_color = "#000000"
 @table_head_fill_color = "#646464"
 @table_body_fill_color = nil
 @table_cell_padding_left = screen_x(2)
