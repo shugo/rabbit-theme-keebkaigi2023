@@ -29,10 +29,10 @@ set_foreground(@default_foreground)
 # slide margin
 #-------------------------
 @space = screen_y(1)
-@margin_top = screen_x(1)
-@margin_right = screen_y(1)
-@margin_bottom = screen_x(1)
-@margin_left = screen_y(1)
+@margin_top = screen_y(1)
+@margin_right = screen_x(1)
+@margin_bottom = screen_y(1)
+@margin_left = screen_x(1)
 #-------------------------
 # image
 #-------------------------
